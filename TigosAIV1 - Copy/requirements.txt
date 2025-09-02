@@ -1,0 +1,5 @@
+customtkinter
+requests
+pyinstaller
+pyttsx3
+Pillow
